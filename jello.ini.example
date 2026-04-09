@@ -1,0 +1,25 @@
+# =============================================
+# ✘ 𝙍𝘼𝙑𝙀𝙉 | @P_X_24
+# =============================================
+# انسخ هذا الملف وسميه jello.ini وضع قيمك الحقيقية
+# Copy this file, rename it to jello.ini and fill in your values
+
+[owner]
+    ; معرف التطبيق - احصل عليه من my.telegram.org
+    id = YOUR_API_ID
+
+    ; معرف المشرف - ضع هنا الـ Telegram ID بتاعك
+    adder = YOUR_ADMIN_ID
+
+    ; هاش التطبيق - احصل عليه من my.telegram.org
+    hash = YOUR_API_HASH
+
+    ; قائمة المشرفين - ضع هنا الـ Telegram IDs
+    admin = [YOUR_ADMIN_ID]
+
+[API_KEYs]
+    ; توكن البوت الأول - احصل عليه من @BotFather
+    mover = YOUR_BOT_TOKEN_1
+
+    ; توكن البوت الثاني - احصل عليه من @BotFather
+    signer = YOUR_BOT_TOKEN_2
